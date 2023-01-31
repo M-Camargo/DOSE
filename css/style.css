@@ -1,0 +1,235 @@
+* body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    height: 100vh;
+    overflow-x: hidden;
+    background-image: url(https://c.static-nike.com/a/images/qe2yqecjebzl0d0cyezn/jordan-collection-homepage.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-position: center;
+}
+
+.gifIntro {
+    width: 100%;
+    height: 100%;
+    background-image: url(https://www.highsnobiety.com/static-assets/wp-content/uploads/2020/06/11105306/stadium-goods-jordan-styling-feat1.gif);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.gifIntro h1 {
+    color: #ffffff;
+    font-size: 8em;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.navbar-brand {
+    padding: 0px 0px 0px 0px;
+}
+
+.imagenNav {
+    width: 100px;
+    padding: 0px 0px 0px 0px;
+    background-color: aqua;
+}
+
+#intro {
+    width: 100%;
+    height: 90%;
+    background-image: url(https://static.nike.com/a/images/i7uaonkqzhahrozhpake/air-jordan-23.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textoPresentacion {
+    padding-right: 80px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+#cartaPresentacion {
+    height: 300px;
+}
+
+.imgPresentacionIntro {
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+.imgPresentacionIntro img {
+    width: 600px;
+    height: 400px;
+}
+
+.cabezal {
+    height: 30px;
+}
+
+.cabezal p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#Productos h2 {
+    text-align: center;
+    font-size: 4rem;
+    color: rgb(255, 255, 255);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.listaDeTarjetas {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+#cartaPrueba {
+    background-image: url(../assets/image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    margin: 100px 0px 100px 0px;
+}
+
+.card {
+    text-align: center;
+}
+
+.card-body {
+    display: flex;
+    text-align: center;
+    align-content: center;
+}
+
+.etiquetaBlanca {
+    display: flex;
+    border-radius: 2px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+    align-content: center;
+    background-color: #ffffff;
+    width: 750px;
+    height: 200px;
+}
+
+.codigoBarra img {
+    width: 105px;
+    align-content: flex-end;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+.etiquetaNegra {
+    background-color: black;
+    width: 200px;
+    height: 100%;
+
+}
+
+.etiquetaNegra p {
+    padding-top: 30px;
+    font-size: 1.2rem;
+    line-height: 1px;
+}
+
+.etiquetaNegra h3 {
+    font-size: 2.5rem;
+    margin-bottom: -10px;
+}
+
+.etiquetaBlanca2 {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    text-align: initial;
+    color: black;
+}
+
+.tituloEtiqueta {
+    margin: 5px 0px 0px 10px;
+}
+
+.modeloEtiqueta {
+    margin: 0px 0px 0px 10px;
+    font-size: 1.5rem;
+
+}
+
+.etiquetaPrecio {
+    font-size: 1.3rem;
+    margin: 15px 0px 0px 10px;
+}
+
+.textoEnvio {
+    font-size: 1.1rem;
+    margin: 0px 0px 0px 10px;
+}
+
+.cuotas {
+    font-size: 1.2rem;
+    margin: 0px 0px 0px 10px;
+}
+
+.botonComprar {
+    margin: 0px 10px 0px 300px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.carruselDeCard {
+    display: flex;
+}
+
+#Nosotros {
+    background-image: url(../assets/foondoFooter.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 150px;
+}
+
+.cartaNosotros {
+    padding-left: 150px;
+    padding-top: 40px;
+    align-items: center;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#Footer {
+    background-image: url(../assets/michaelfondofooter.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    display: flex;
+    margin-top: 150px;
+}
+
+#Footer div {
+    padding: 50px 0px 0px 50px;
+}
+
+.footer1 {
+    margin-left: 300px;
+}
